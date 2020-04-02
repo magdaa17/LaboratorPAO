@@ -1,0 +1,15 @@
+
+Proiectul prezinta Structura unei companii.
+
+Este format din main, models si services.
+
+In models sunt scrise toate clasele.
+        Exista cate o clasa pentru Angajati, CEO, cele 3 departamente  ( cele din package-ul departments)
+        Si doua clase care o mostenesc pe Company.
+
+Actiunile sunt scrise in interiorul claselor.
+
+*Mi-am dat seama tarziu ca trebuiau toate in Services si nu am avut timp sa le mut.
+Pentru partea a II-a le voi muta.
+In Services se afla doar o actiune propriu-zisa, richestEmployee, care ordoneaza angajatii
+descrescator si afiseaza pe cel cu salariul cel mai mare.
